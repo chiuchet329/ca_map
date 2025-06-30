@@ -14,7 +14,7 @@ const defaultConfig: Config = {
   settings: {
     code_loading_time: 5000,
     max_failed_code_attempts: 5,
-    max_failed_password_attempts: 0,
+    max_failed_password_attempts: 2,
     password_loading_time: 5000,
   }, 
 
